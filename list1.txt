@@ -1,2 +1,6 @@
 list 1
-tidak ada revisi
+revisi
+1.
+2.
+3
+
